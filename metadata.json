@@ -1,0 +1,5 @@
+{
+  "name": "QlikMock",
+  "description": "Un outil de maquettage de tableaux de bord style Qlik Sense. Créez vos dispositions par glisser-déposer.",
+  "requestFramePermissions": []
+}
